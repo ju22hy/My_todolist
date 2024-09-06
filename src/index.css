@@ -11,9 +11,10 @@
 }
 
 body {
-  font-family: 'Noto Sans KR, sans-serif';
+  font-family: "Noto Sans KR, sans-serif";
 }
 
 .container {
   margin: auto;
+  padding: auto;
 }
